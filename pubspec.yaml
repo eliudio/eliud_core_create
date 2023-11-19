@@ -1,6 +1,6 @@
 ---
-name: eliud_core_widgets
-description: Eliud core  is the core widgets
+name: eliud_core_create widgets
+description: "eliud_core_create is a core create package of your eliud app, providing wizard and editor classes. More info at https://eliud.io"
 homepage: https://eliud.io
 repository: https://github.com/eliudio/eliud_core
 version: 1.0.0
