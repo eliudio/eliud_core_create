@@ -1,8 +1,9 @@
+import 'package:eliud_core_create/wizards/builders/page_builder.dart';
 import 'package:eliud_core_model/model/abstract_repository_singleton.dart'
     as corerepo;
 import 'package:eliud_core_model/model/model_export.dart';
-import 'package:eliud_core_model/wizards/builders/page_builder.dart';
-import 'package:eliud_core_model/wizards/tools/document_identifier.dart';
+
+import '../tools/document_identifier.dart';
 
 class SingleComponentPageBuilder extends PageBuilder {
   SingleComponentPageBuilder(
