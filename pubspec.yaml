@@ -1,9 +1,9 @@
 ---
-name: eliud_core_create
-description: Eliud core create is the core create eliud package which includes core classes for wizards and editors. More info at https://eliud.io
+name: eliud_core_widgets
+description: Eliud core  is the core widgets
 homepage: https://eliud.io
 repository: https://github.com/eliudio/eliud_core
-version: 1.1.5+7
+version: 1.0.0
 environment:
   sdk: '>=2.17.0 <4.0.0'
   flutter: '>=3.0.0'
